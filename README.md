@@ -1,2 +1,1 @@
-# Практика работы с React, Typescript и ООП - простая реализация шахмат
-
+# Practice with React, Typescript, OOP

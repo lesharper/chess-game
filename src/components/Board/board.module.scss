@@ -1,0 +1,19 @@
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: #000;
+  text-transform: uppercase;
+  color: #fff
+}
+
+.board {
+  width: calc(64px * 8);
+  height: calc(64px * 8);
+
+  display: flex;
+  flex-wrap: wrap;
+
+  border: 15px solid #341414;
+}

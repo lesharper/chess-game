@@ -1,0 +1,18 @@
+.lost {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: calc(50vh - 60px);
+  width: 20vw;
+  padding: 30px;
+  margin: 50px;
+  background-color: lightgrey;
+
+  & img {
+    width: 20px;
+    height: 20px;
+
+    position: relative;
+  }
+}
+
